@@ -28,7 +28,9 @@
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,mongodb)](https://skillicons.dev)
 
 ### 🚀 Frameworks e ferramentas de automação
-[![My Skills](https://skillicons.dev/icons?i=playwright,cypress,postman)](https://skillicons.dev)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - 🎭 **Playwright** - Automação moderna de testes web
 - 🔍 **Cypress** - Testes end-to-end
 - 🐍 **Requests** - Biblioteca Python para requisições HTTP
@@ -38,21 +40,20 @@
 ### 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,linux,windows)](https://skillicons.dev)
 
-<!-- Container flexível para ajustar imagem e texto lado a lado no PC e empilhado no celular -->
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
+<!-- Container flexível para imagem à esquerda e texto à direita -->
+<div style="display: flex; flex-wrap: nowrap; align-items: flex-start; justify-content: flex-start; gap: 30px;">
 
-<!-- Imagem com tamanho responsivo e alinhada à esquerda no PC -->
-<div style="flex: 1 1 300px; max-width: 350px; text-align: center;">
-<img 
-  src="./images/neo-is-sleeping-matrix.gif" 
-  alt="Matrix Neo sleeping" 
-  style="width: 100%; max-width: 350px; height: auto; display: inline-block;"
->
-</div>
+  <!-- Imagem com tamanho fixo à esquerda -->
+  <div style="flex: 0 0 350px; text-align: center;">
+    <img 
+      src="./images/neo-is-sleeping-matrix.gif" 
+      alt="Matrix Neo sleeping" 
+      style="width: 100%; max-width: 350px; height: auto; display: inline-block;"
+    >
+  </div>
 
-
-  <!-- Texto com largura flexível, alinhado à esquerda -->
-  <div style="flex: 1 1 300px; max-width: 600px; text-align: left;">
+  <!-- Texto à direita ocupando o restante do espaço -->
+  <div style="flex: 1; text-align: left; min-width: 300px;">
     <p>
       Minha jornada em TI começou com <strong>suporte em microinformática e manutenção de redes</strong>, evoluindo para implantação de sistemas corporativos e automação de processos.<br><br>
       Na <strong>Azul Music</strong>, como Analista de QA e Automação, além de prestar suporte técnico aos clientes da aplicação Player Music Delivery, atuo no desenvolvimento de testes automatizados e scripts de qualidade, aplicando <strong>JavaScript e Python</strong> com ferramentas como Playwright e Cypress.<br><br>
