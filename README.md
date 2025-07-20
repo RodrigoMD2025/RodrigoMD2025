@@ -50,6 +50,7 @@
 >
 </div>
 
+
   <!-- Texto com largura flexível, alinhado à esquerda -->
   <div style="flex: 1 1 300px; max-width: 600px; text-align: left;">
     <p>
