@@ -43,12 +43,12 @@
 <!-- Container flexível para ajustar imagem e texto lado a lado no PC e empilhado no celular -->
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
 
-  <!-- Imagem com tamanho responsivo e alinhada à esquerda no PC -->
+<!-- Imagem com tamanho responsivo e alinhada à esquerda no PC -->
 <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
 <img 
   src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
   alt="developer illustration" 
-  style="width: 100%; max-width: 300px; height: auto; display: inline-block;"
+  style="width: 100%; max-width: 250px; height: auto; display: inline-block;"
 >
 </div>
 
