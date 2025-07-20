@@ -52,7 +52,16 @@
 >
 </div>
 
-  <!-- Texto com largura flexível, alinhado à esquerda -->
+ <!-- Imagem com tamanho responsivo e alinhada à esquerda no PC -->
+<div style="flex: 1 1 300px; max-width: 350px; text-align: center;">
+<img 
+  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
+  alt="developer illustration" 
+  style="width: 100%; max-width: 350px; height: auto; display: inline-block;"
+>
+</div>
+
+    <!-- Texto com largura flexível, alinhado à esquerda -->
   <div style="flex: 1 1 300px; max-width: 600px; text-align: left;">
     <p>
       Minha jornada em TI começou com <strong>suporte em microinformática e manutenção de redes</strong>, evoluindo para implantação de sistemas corporativos e automação de processos.<br><br>
