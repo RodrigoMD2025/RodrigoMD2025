@@ -28,9 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,mongodb)](https://skillicons.dev)
 
 ### 🚀 Frameworks e ferramentas de automação
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=playwright,cypress,postman)](https://skillicons.dev)
 - 🎭 **Playwright** - Automação moderna de testes web
 - 🔍 **Cypress** - Testes end-to-end
 - 🐍 **Requests** - Biblioteca Python para requisições HTTP
@@ -44,15 +42,6 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 20px;">
 
 <!-- Imagem com tamanho responsivo e alinhada à esquerda no PC -->
-<div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-<img 
-  src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://tenor.com/pt-BR/view/neo-is-sleeping-matrix-gif-16636972204393541788)" 
-  alt="developer illustration" 
-  style="width: 100%; max-width: 250px; height: auto; display: inline-block;"
->
-</div>
-
- <!-- Imagem com tamanho responsivo e alinhada à esquerda no PC -->
 <div style="flex: 1 1 300px; max-width: 350px; text-align: center;">
 <img 
   src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
@@ -61,7 +50,7 @@
 >
 </div>
 
-    <!-- Texto com largura flexível, alinhado à esquerda -->
+  <!-- Texto com largura flexível, alinhado à esquerda -->
   <div style="flex: 1 1 300px; max-width: 600px; text-align: left;">
     <p>
       Minha jornada em TI começou com <strong>suporte em microinformática e manutenção de redes</strong>, evoluindo para implantação de sistemas corporativos e automação de processos.<br><br>
