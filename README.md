@@ -44,8 +44,8 @@
 <!-- Imagem com tamanho responsivo e alinhada à esquerda no PC -->
 <div style="flex: 1 1 300px; max-width: 350px; text-align: center;">
 <img 
-  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
-  alt="developer illustration" 
+  src="./images/neo-is-sleeping-matrix.gif" 
+  alt="Matrix Neo sleeping" 
   style="width: 100%; max-width: 350px; height: auto; display: inline-block;"
 >
 </div>
