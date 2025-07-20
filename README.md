@@ -28,9 +28,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,mongodb)](https://skillicons.dev)
 
 ### 🚀 Frameworks e ferramentas de automação
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=playwright,cypress,postman)](https://skillicons.dev)
 - 🎭 **Playwright** - Automação moderna de testes web
 - 🔍 **Cypress** - Testes end-to-end
 - 🐍 **Requests** - Biblioteca Python para requisições HTTP
@@ -45,11 +43,11 @@
 
   <!-- Imagem com tamanho responsivo e alinhada à esquerda no PC -->
   <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
-    <img 
-      src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-      alt="ilustração de um computador" 
-      style="width: 100%; max-width: 400px; height: auto; display: inline-block;"
-    >
+<img 
+  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
+  alt="developer illustration" 
+  style="width: 100%; max-width: 400px; height: auto; display: inline-block;"
+>
   </div>
 
   <!-- Texto com largura flexível, alinhado à esquerda -->
