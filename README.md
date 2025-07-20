@@ -28,7 +28,9 @@
 [![My Skills](https://skillicons.dev/icons?i=python,js,html,mongodb)](https://skillicons.dev)
 
 ### 🚀 Frameworks e ferramentas de automação
-[![My Skills](https://skillicons.dev/icons?i=playwright,cypress,postman)](https://skillicons.dev)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - 🎭 **Playwright** - Automação moderna de testes web
 - 🔍 **Cypress** - Testes end-to-end
 - 🐍 **Requests** - Biblioteca Python para requisições HTTP
