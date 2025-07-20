@@ -46,7 +46,7 @@
 <!-- Imagem com tamanho responsivo e alinhada à esquerda no PC -->
 <div style="flex: 1 1 300px; max-width: 400px; text-align: center;">
 <img 
-  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" 
+  src="[https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif](https://tenor.com/pt-BR/view/neo-is-sleeping-matrix-gif-16636972204393541788)" 
   alt="developer illustration" 
   style="width: 100%; max-width: 250px; height: auto; display: inline-block;"
 >
