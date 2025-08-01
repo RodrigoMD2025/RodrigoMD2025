@@ -67,8 +67,6 @@
 - **APIs**: Desenvolvimento e testes com Postman
 - **Modernização**: Atualização de sistemas operacionais, migração de ambientes
 
-<hr>
-
 ## 📬 Contato
 
 Vamos nos conectar? Sou sempre aberto a discussões sobre automação, qualidade de software e modernização de sistemas!
