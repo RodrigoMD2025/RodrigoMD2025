@@ -16,12 +16,17 @@
 - 🏆 **Visão estratégica** para otimização de processos e modernização tecnológica
 
 ## Tecnologias e linguagens 💻
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,supabase)](https://skillicons.dev)
 
-### 🚀 Frameworks e ferramentas de automação
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+## 🚀 Frameworks e ferramentas de automação
+<p>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" alt="Playwright" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/cypress.png" alt="Cypress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="Cypress" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" width="40" height="40"/>
+</p>
+
 - 🎭 **Playwright** - Automação moderna de testes web
 - 🔍 **Cypress** - Testes end-to-end
 - 🐍 **Requests** - Biblioteca Python para requisições HTTP
@@ -31,10 +36,8 @@
 ## 🛠️ Ferramentas de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,linux,windows)](https://skillicons.dev)
 
-<!-- Container flexível para imagem à esquerda e texto à direita -->
 <div style="display: flex; flex-wrap: nowrap; align-items: flex-start; justify-content: flex-start; gap: 30px;">
 
-  <!-- Imagem com tamanho fixo à esquerda -->
   <div style="flex: 0 0 350px; text-align: center;">
     <img 
       src="./images/neo-is-sleeping-matrix.gif" 
@@ -43,7 +46,6 @@
     >
   </div>
 
-  <!-- Texto à direita ocupando o restante do espaço -->
   <div style="flex: 1; text-align: left; min-width: 300px;">
     <p>
       Minha jornada em TI começou com <strong>suporte em microinformática e manutenção de redes</strong>, evoluindo para implantação de sistemas corporativos e automação de processos.<br><br>
@@ -66,10 +68,10 @@
 - **Automação**: Web Automation, testes exploratórios, Playwright
 - **APIs**: Desenvolvimento e testes com Postman
 - **Modernização**: Atualização de sistemas operacionais, migração de ambientes
+ 
 
-## 📬 Contato
-
-Vamos nos conectar? Sou sempre aberto a discussões sobre automação, qualidade de software e modernização de sistemas!
+<p align="left">
+  Vamos nos conectar? Sou sempre aberto a discussões sobre automação, qualidade de software e modernização de sistemas!
 </p>
 
 <p align="left">
