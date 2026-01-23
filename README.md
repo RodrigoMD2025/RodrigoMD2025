@@ -1,8 +1,8 @@
 # 🧑🏽‍💻 Olá, eu sou o Rodrigo!
 
 <p align="left">
-  Profissional de TI com mais de 10 anos de experiência, especializado em suporte técnico, infraestrutura, qualidade de software e automação de processos. <br>
-  Atualmente atuo como <strong>Analista de QA e Automação na Azul Music</strong>, integrando atividades de testes automatizados, controle de qualidade e desenvolvimento de scripts para garantir processos eficientes, aplicando <strong>JavaScript</strong> e <strong>Python</strong>.
+  Profissional de TI com mais de 10 anos de experiência em automação, suporte a aplicações e operação de sistemas.<br>
+Atuo na sustentação e melhoria de aplicações web, desenvolvendo automações com <strong>Python</strong> e <strong>JavaScript</strong>, com contato com ambientes Linux, CI/CD e práticas de engenharia de sistemas.
 </p>
 
 ## Sobre mim
