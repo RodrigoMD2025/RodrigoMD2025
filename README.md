@@ -26,15 +26,6 @@
 
 ## 🚀 Automação, Sistemas & Operação
 
-<p>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/githubactions.png" alt="GitHub Actions" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" width="40" height="40"/>
-</p>
-
 - 🎭 **Playwright** — Automação de fluxos web e validação técnica de aplicações  
 - 🐍 **Requests** — Integração e consumo de APIs REST em Python  
 - 📡 **Postman** — Validação e troubleshooting de APIs  
