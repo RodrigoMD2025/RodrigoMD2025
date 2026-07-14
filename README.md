@@ -16,7 +16,7 @@
 - 📊 **Foco atual:** Desenvolvimento de soluções em **SQL, Python (Pandas)** e **Power BI**, aplicando análise exploratória, modelagem de dados e construção de dashboards.
 - 📈 Experiência em projetos de **Rollout, migração de sistemas, ERP, integrações e automação**, utilizando dados para otimização de processos.
 - 🧠 Perfil analítico, orientado à resolução de problemas, melhoria contínua e tomada de decisões baseada em dados.
-- 🚀 Em constante evolução para atuar como **Analista de Dados**, ampliando conhecimentos em BI, ETL e Engenharia de Dados.
+- 🚀 Em transição para a área de Análise de Dados, desenvolvendo competências em SQL, Python, Power BI e Business Intelligence por meio de estudos e projetos práticos.
 
 ---
 
@@ -32,9 +32,9 @@
 
 ## 🚀 Habilidades em Dados
 
-- 🐘 **SQL (PostgreSQL)** — Consultas complexas, CTEs, Window Functions, agregações, JOINs e otimização de consultas.
+- 🐘 **SQL (PostgreSQL)** — Desenvolvimento de consultas, JOINs, agregações, filtros, ordenação e manipulação de dados.
 - 🐍 **Python (Pandas)** — Limpeza, transformação, análise exploratória e automação de processamento de dados.
-- 📊 **Power BI (em evolução)** — Modelagem de dados, Power Query, DAX e criação de dashboards interativos.
+- 📊 **Power BI (em evolução)** — Aprendizado em modelagem de dados, Power Query, DAX e criação de dashboards.
 - 📈 **Excel Avançado** — Tabelas Dinâmicas, gráficos, dashboards e análise de indicadores.
 - 🔄 **ETL e APIs** — Coleta, transformação e integração de dados provenientes de diferentes fontes.
 - 🐳 **Docker & Linux** — Ambientes para desenvolvimento, automação e processamento de dados.
