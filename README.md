@@ -26,8 +26,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,js,linux,docker,git,githubactions,postgresql,vscode" />
   </a>
-
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
