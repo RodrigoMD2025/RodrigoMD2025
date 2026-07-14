@@ -1,81 +1,100 @@
 # 🧑🏽‍💻 Olá, eu sou o Rodrigo!
 
 <p align="left">
-  Profissional de TI com mais de 10 anos de experiência em <strong>automação, suporte a aplicações e operação de sistemas</strong>.<br>
-  Atuo na sustentação e evolução de aplicações web, desenvolvendo automações com <strong>Python</strong> e <strong>JavaScript</strong>, com contato com ambientes Linux, CI/CD e práticas de engenharia de sistemas.
+  Profissional de TI com mais de <strong>10 anos de experiência</strong> em suporte, automação e sustentação de aplicações, atualmente direcionando minha carreira para <strong>Análise de Dados</strong>, com foco em <strong>SQL, Python, Power BI e Business Intelligence</strong>.<br><br>
+
+  Tenho experiência em automação de processos, manipulação de dados, integrações e desenvolvimento de soluções que apoiam a tomada de decisão baseada em dados, sempre buscando eficiência operacional e geração de insights.
 </p>
 
 ---
 
 ## 👋 Sobre mim
 
-- 🎓 **Formado em Ciência da Computação**
-- 💼 **10+ anos de experiência em TI** — suporte técnico, infraestrutura, automação e sistemas
-- 🎵 Atuação atual na **Azul Music**, participando da sustentação e evolução da aplicação Player Music Delivery
-- 🔧 **Automação e suporte a sistemas** — scripts, validações técnicas, APIs e otimização de processos
-- 🚀 **Foco atual**: automação de processos, confiabilidade de aplicações e infraestrutura em nuvem
-- 📈 **Experiência em projetos**: rollout, migração de sistemas, ERP e redes corporativas
-- 🧠 Perfil analítico, com foco em eficiência operacional e melhoria contínua
+- 🎓 **Bacharel em Ciência da Computação**
+- 💼 **10+ anos de experiência em TI**, atuando em suporte técnico, infraestrutura, automação e sustentação de sistemas.
+- 🎵 Atualmente na **Azul Music**, contribuindo para a sustentação e evolução de aplicações, automação de processos e análise de indicadores.
+- 📊 **Foco atual:** Desenvolvimento de soluções em **SQL, Python (Pandas)** e **Power BI**, aplicando análise exploratória, modelagem de dados e construção de dashboards.
+- 📈 Experiência em projetos de **Rollout, migração de sistemas, ERP, integrações e automação**, utilizando dados para otimização de processos.
+- 🧠 Perfil analítico, orientado à resolução de problemas, melhoria contínua e tomada de decisões baseada em dados.
+- 🚀 Em constante evolução para atuar como **Analista de Dados**, ampliando conhecimentos em BI, ETL e Engenharia de Dados.
 
 ---
 
-## 💻 Tecnologias e Linguagens
-[![My Skills](https://skillicons.dev/icons?i=python,js,linux,docker,git,githubactions)](https://skillicons.dev)
-
----
-
-## 🚀 Automação, Sistemas & Operação
-
-- 🎭 **Playwright** — Automação de fluxos web e validação técnica de aplicações  
-- 🐍 **Requests** — Integração e consumo de APIs REST em Python  
-- 📡 **Postman** — Validação e troubleshooting de APIs  
-- 🐼 **Pandas** — Automação e tratamento de dados para relatórios e processos  
-
----
-
-## 🛠️ Ferramentas de Desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,docker,linux,windows)](https://skillicons.dev)
-
----
-
-<div style="display: flex; flex-wrap: nowrap; align-items: flex-start; justify-content: flex-start; gap: 30px;">
-
-  <div style="flex: 0 0 350px; text-align: center;">
-    <img 
-      src="./images/neo-is-sleeping-matrix.gif" 
-      alt="Matrix Neo sleeping" 
-      style="width: 100%; max-width: 350px; height: auto; display: inline-block;"
-    >
-  </div>
-
-  <div style="flex: 1; text-align: left; min-width: 300px;">
-    <p>
-      Minha jornada em TI começou com <strong>suporte em microinformática e manutenção de redes</strong>, evoluindo para implantação de sistemas corporativos e automação de processos.<br><br>
-      Na <strong>Azul Music</strong>, atuo na <strong>sustentação e evolução da aplicação Player Music Delivery</strong>, lidando com incidentes, automações, validações técnicas e suporte a clientes, utilizando <strong>Python</strong> e <strong>JavaScript</strong> em ambientes Linux.<br><br>
-      Ao longo da carreira, desenvolvi uma base sólida em automação, operação de sistemas e confiabilidade de aplicações, com interesse contínuo em práticas de <strong>CI/CD, containers e Cloud</strong>.
-    </p>
-  </div>
-
-</div>
-
----
-
-## 🎯 Experiência & Especialidades
-
-### 🏢 Azul Music — Sustentação e Automação de Sistemas
-- 🎵 Suporte técnico e análise de incidentes da aplicação Player Music Delivery
-- 🔧 Desenvolvimento de automações e scripts para apoio à operação
-- 🔍 Validação técnica de funcionalidades e integrações
-- 🐍 Automação com Python e JavaScript em ambientes Linux
-
-### 🔧 Áreas de Atuação
-- **Automação de Processos e Sistemas**
-- **APIs e Integrações**
-- **Sustentação de Aplicações**
-- **Modernização e Migração de Ambientes**
-
----
+## 💻 Tecnologias
 
 <p align="left">
-  Vamos nos conectar? Gosto de trocar ideias sobre automação, sistemas, CI/CD e confiabilidade de aplicações.
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,linux,docker,git,githubactions,postgresql,vscode" />
+  </a>
+
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+---
+
+## 🚀 Habilidades em Dados
+
+- 🐘 **SQL (PostgreSQL)** — Consultas complexas, CTEs, Window Functions, agregações, JOINs e otimização de consultas.
+- 🐍 **Python (Pandas)** — Limpeza, transformação, análise exploratória e automação de processamento de dados.
+- 📊 **Power BI (em evolução)** — Modelagem de dados, Power Query, DAX e criação de dashboards interativos.
+- 📈 **Excel Avançado** — Tabelas Dinâmicas, gráficos, dashboards e análise de indicadores.
+- 🔄 **ETL e APIs** — Coleta, transformação e integração de dados provenientes de diferentes fontes.
+- 🐳 **Docker & Linux** — Ambientes para desenvolvimento, automação e processamento de dados.
+- 🔧 **Git & GitHub Actions** — Versionamento e automação de workflows.
+
+---
+
+## 🎯 Experiência Profissional
+
+### 🏢 Azul Music — Sustentação de Sistemas & Automação
+
+- 🎵 Suporte técnico especializado à plataforma Music Delivery.
+- 🔍 Investigação e resolução de incidentes, garantindo integridade e disponibilidade das aplicações.
+- 🐍 Desenvolvimento de automações utilizando **Python** e **JavaScript**, reduzindo atividades manuais e aumentando a eficiência operacional.
+- 📊 Extração, transformação e processamento de dados para geração de relatórios e apoio à tomada de decisão.
+- 🔗 Validação de integrações e qualidade dos dados entre diferentes sistemas.
+
+---
+
+## 🛠️ Principais Competências
+
+- 📊 Análise e Visualização de Dados
+- 🐘 SQL (PostgreSQL)
+- 🐍 Python para Análise de Dados
+- 📈 Business Intelligence
+- 📋 Dashboards e Indicadores
+- 🔄 ETL e Integração de Dados
+- ⚙️ Automação de Processos
+- 🐳 Docker
+- 🐧 Linux
+- 🌿 Git & GitHub Actions
+
+---
+
+## 📚 Atualmente estudando
+
+- 📊 Power BI
+- 🐘 SQL Avançado
+- 📈 Business Intelligence
+- 🧠 Modelagem de Dados
+- ⚡ ETL
+- 🐍 Python para Data Analytics
+- ☁️ Microsoft Fabric (próximos estudos)
+
+---
+
+## 📫 Vamos nos conectar!
+
+<p align="left">
+Gosto de compartilhar conhecimento e trocar ideias sobre <strong>Análise de Dados</strong>, <strong>SQL</strong>, <strong>Python</strong>, <strong>Power BI</strong>, automação e tecnologia aplicada aos negócios.
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/RodrigoMD2025">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
