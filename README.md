@@ -88,7 +88,7 @@ Gosto de compartilhar conhecimento e trocar ideias sobre <strong>Análise de Dad
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN">
+  <a href="https://www.linkedin.com/in/rodrigo-melo-dos-santos-0262a033/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
